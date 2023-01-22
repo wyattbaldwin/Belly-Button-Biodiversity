@@ -11,17 +11,18 @@ Using JavaScript and HTML, data was retrieved from an external JSON file. Method
 
 For each ID, the following were created:
 
-A panel displaying demographic information such as ID, ethnicity, gender, age, location, bbtype and wfreq.
-A horizontal bar chart displaying the top 10 bacterial species (OTUs).
-A bubble chart displaying Bacteria cultures per sample.
-A gauge chart displaying the weekly washing frequency's value (wfreq).
+- A panel displaying demographic information such as ID, ethnicity, gender, age, location, bbtype and wfreq.
+- A horizontal bar chart displaying the top 10 bacterial species (OTUs).
+- A bubble chart displaying Bacteria cultures per sample.
+- A gauge chart displaying the weekly washing frequency's value (wfreq).
+
 HTML and Bootstrap were used to customize the webpage by:
 
-Adding an image to the jumbotron.
-Adding a background color to the webpage.
-Using a custom font with contrast for the colors.
-Adding user instructions at the top of the page.
-When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard and the three charts display data related to ID 940.
+- Adding an image to the jumbotron.
+- Adding a background color to the webpage.
+- Using a custom font with contrast for the colors.
+- Adding user instructions at the top of the page.
+- When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard and the three charts display data related to ID 940.
 
 ## Outcomes vs. Goals
 The interactive dashboard was built successfully and allows for exploration of the Belly Button Biodiversity data in a visually appealing and dynamic way. However, making the webpage mobile responsive would be an interesting next step.
