@@ -22,7 +22,8 @@ HTML and Bootstrap were used to customize the webpage by:
 - Adding a background color to the webpage.
 - Using a custom font with contrast for the colors.
 - Adding user instructions at the top of the page.
-- When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard and the three charts display data related to ID 940.
+
+When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard and the three charts display data related to ID 940.
 
 ## Outcomes vs. Goals
 The interactive dashboard was built successfully and allows for exploration of the Belly Button Biodiversity data in a visually appealing and dynamic way. However, making the webpage mobile responsive would be an interesting next step.
